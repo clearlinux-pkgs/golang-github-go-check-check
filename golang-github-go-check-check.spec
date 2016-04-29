@@ -4,7 +4,7 @@
 #
 Name     : golang-github-go-check-check
 Version  : 4f90aeace3a26ad7021961c297b22c42160c7b25
-Release  : 1
+Release  : 2
 URL      : https://github.com/go-check/check/archive/4f90aeace3a26ad7021961c297b22c42160c7b25.tar.gz
 Source0  : https://github.com/go-check/check/archive/4f90aeace3a26ad7021961c297b22c42160c7b25.tar.gz
 Summary  : No detailed summary available
